@@ -1,1 +1,1 @@
-# Intallation of OneAgent using Dynatrace
+# Installation of OneAgent using Dynatrace
