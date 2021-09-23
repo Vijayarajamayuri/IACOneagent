@@ -1,0 +1,6 @@
+---
+- name: Set rl
+  get_url:
+    url: https://wordpress.org/latest.zip
+    dest: /var/tmp/latest.zip
+    
